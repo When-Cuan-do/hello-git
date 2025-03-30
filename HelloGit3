@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-System.out.println("Hello Git 3 Login");
-=======
 System.out.println("Hello Git 3 v3");
->>>>>>> master
